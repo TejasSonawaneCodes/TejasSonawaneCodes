@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Tejas Sonawane</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2FLl22OhMLAlVDb8UQWe%2Fgiphy.gif%3Fcid%3D6c09b952kl7civ9vlr494dp0rgu9mcrynwpcw43lj4in89me%26ep%3Dv1_stickers_search%26rid%3Dgiphy.gif%26ct%3Ds&imgrefurl=https%3A%2F%2Fgiphy.com%2Fstickers%2Fhacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe&docid=RqBKAtrhD1zYHM&tbnid=lMFwynWZabz5LM&vet=12ahUKEwjJg8XKhvGLAxWQk68BHXH6FzQQM3oECFwQAA..i&w=400&h=480&hcb=2&ved=2ahUKEwjJg8XKhvGLAxWQk68BHXH6FzQQM3oECFwQAA">
+<img align="right" alt="Coding" width="400" src="[https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2FLl22OhMLAlVDb8UQWe%2Fgiphy.gif%3Fcid%3D6c09b952kl7civ9vlr494dp0rgu9mcrynwpcw43lj4in89me%26ep%3Dv1_stickers_search%26rid%3Dgiphy.gif%26ct%3Ds&imgrefurl=https%3A%2F%2Fgiphy.com%2Fstickers%2Fhacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe&docid=RqBKAtrhD1zYHM&tbnid=lMFwynWZabz5LM&vet=12ahUKEwjJg8XKhvGLAxWQk68BHXH6FzQQM3oECFwQAA..i&w=400&h=480&hcb=2&ved=2ahUKEwjJg8XKhvGLAxWQk68BHXH6FzQQM3oECFwQAA](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1741112641~exp=1741116241~hmac=bf021ae22b956fdddd5f9cf07f6bb81ca31c228defd95d4a2b3aee6a53ea0881&w=1380)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejassonawanecodes&label=Profile%20views&color=0e75b6&style=flat" alt="tejassonawanecodes" /> </p>
 
