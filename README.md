@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **MERN,Android**
+- 💬 Ask me about **HTML,CSS,JS,MERN,Android**
 
 - 📫 How to reach me **tejassonawane312@gmail.com**
 
